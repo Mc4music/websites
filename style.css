@@ -46,6 +46,16 @@ section {
   height:300px;
   background-size:cover;
 }
+button{
+  color:red;
+  background-color:black;
+  border:none;
+  border-radius:3px;
+  padding:5px;
+  margin-top:40px;
+}
+
+}
   
   
   
