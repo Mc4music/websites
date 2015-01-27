@@ -10,8 +10,10 @@ font-family:sans-serif;
 nav a{
   text-decoration:none;
   color:#8F9E9F;
-  background-color:whitw;
-  
+  background-color:white;
+  border-radius:2px;
+  padding:2px;
+  margin:5px;
   
 }
 }
