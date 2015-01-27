@@ -23,7 +23,6 @@ na a:hover{
   background-color:gray;
 
 }
-
 header{
   text-align:cenetr;
   
@@ -48,11 +47,12 @@ section {
 }
 button{
   color:red;
-  background-color:black;
+  background-color:blue;
   border:none;
-  border-radius:3px;
+  border-radius:8px;
   padding:5px;
-  margin-top:40px;
+  margin-top:80px;
+  font-size:39px;
 }
 
 }
@@ -61,6 +61,7 @@ button{
   
   
   
+
   
   
   
