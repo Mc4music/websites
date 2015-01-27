@@ -23,9 +23,16 @@ nav a{
 
 na a:hover{
   background-color:gray;
+
 }
 
+header{
+  text-align:center;
+}
+header img{
+  border-radius:50%;
+}
 h2{
-  color:#;
+  color:black;
 }
 
