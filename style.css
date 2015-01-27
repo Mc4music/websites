@@ -4,7 +4,7 @@
 body{
 
 color:#6B0E00;
-font-family:Bad script;
+font-family:
 }
 
 nav a{
@@ -34,7 +34,35 @@ header{
 header img{
   border-radius:50%;
 }
-h2{
+header 1{
   color:black;
+  font-family:'Cinzel Decorative';
+  
 }
+h2{
+  color:;
+}
+
+section{
+  background-image:url(http://www.jetsetmag.com/classifieds/wp-content/uploads/2012/02/492551-500x305.jpg);
+  height:400px;
+  background-size:cover;
+  
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
+}
+
 
