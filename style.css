@@ -10,7 +10,7 @@ font-family:sans-serif;
 nav a{
   text-decoration:none;
   color:black;
-  background-color:gray;
+  background-color:red;
   border-radius:2px;
   padding:2px;
   margin:5px;
@@ -21,9 +21,9 @@ nav a{
 
 
 na a:hover{
-  background-color:white;
+  background-color:black;
 }
-}
+
 h2{
   color:#;
 }
