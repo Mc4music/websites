@@ -15,7 +15,13 @@ nav a{
   padding:2px;
   margin:5px;
   display:inline-block;
+  transition:1s all;
   
+}
+
+
+na a:hover{
+  background-color:white;
 }
 }
 h2{
