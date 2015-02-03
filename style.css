@@ -51,6 +51,12 @@ section {
   background-color: maroon;
   height: 250px;
 }
+p{
+	background-color:black;
+	font-family:impact,haettenschweiler,"Arial Narrow Bold",sans-serif;
+	
+}
+
 button{
   color:white;
   background-color:black;
