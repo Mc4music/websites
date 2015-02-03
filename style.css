@@ -33,7 +33,9 @@ header{
   
 }
 h2{
-  color:red;
+  color:black;
+  font-family: 'Rozha One', serif;
+  text-align:Left;
 }
 
 section {
@@ -44,12 +46,13 @@ section {
 }
 button{
   color:red;
-  background-color:blue;
+  background-color:black;
   border:none;
   border-radius:8px;
   padding:5px;
-  margin-top:90px;
-  font-size:49px;
+  margin-top:130px;
+  font-size:65px;
+  font-family: 'Chango', cursive;
 }
 
 }
