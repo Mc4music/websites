@@ -18,6 +18,8 @@ nav a{
 
 nav a:hover{
   background-color:gray;
+  text-align:center;
+  
 
 }
 header{
@@ -53,6 +55,7 @@ button{
   margin-top:130px;
   font-size:65px;
   font-family: 'Chango', cursive;
+  text-align:left;
 }
 
 }
