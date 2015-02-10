@@ -19,7 +19,7 @@ nav a{
  }
 
 
-nav a:hover{
+nav a{
   background-color:gray;
   text-align:center;
   
@@ -61,7 +61,7 @@ section {
   background-color: white;
   height: 300px;
 }
-p a:hover{
+p {
 	background-color:white;
 	font-family:impact,haettenschweiler,"Arial Narrow Bold",sans-serif;
 	margin:56px;
@@ -73,7 +73,7 @@ p a:hover{
 	
 }
 
-button a:hover{
+button{
   color:white;
   background-color:black;
   border:none;
