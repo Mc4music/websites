@@ -29,7 +29,7 @@ h1{
   color:white;
   text-align:center;
   font-family: 'Poiret One', cursive;
-  font-size:75px;
+  font-size:80px;
   font-weight:bold;
   
 }
@@ -38,13 +38,13 @@ header img{
   text-align:center;
 }
 header{
-  color:black;
+  color:white;
   font-family:'Cinzel Decorative';
   text-align:center;
   
 }
 h2{
-  color:black;
+  color:white;
   font-family: 'Rozha One', serif;
   text-align:center;
   font-size:50px;
@@ -58,7 +58,7 @@ section {
 }
   #features {
   background-image: none;
-  background-color: maroon;
+  background-color: white;
   height: 300px;
 }
 p{
