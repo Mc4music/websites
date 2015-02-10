@@ -23,8 +23,10 @@ nav a:hover{
   
 
 }
-header{
-  text-align:cenetr;
+h1{
+  color:black;
+  text-align:center;
+  font-family: 'Rozha One', serif;
   
 }
 header img{
