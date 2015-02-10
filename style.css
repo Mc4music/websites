@@ -6,14 +6,14 @@ margin:0;
 
 nav a{
   text-decoration:none;
-  color:#A1B1B1;
-  background-color:;
-  border-radius:2px;
-  padding:2px;
-  margin:5px;
+  color:white;
+ 
+  border-radius:5px;
+  padding:5px;
+  margin:10px;
   display:;
   transition:4 s all;
-  text-align:;
+  text-align:center;
   font-size:60px;
   font-family: 'Poiret One', cursive;
  }
