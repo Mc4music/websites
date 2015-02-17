@@ -86,11 +86,15 @@ button{
 }
 
 
-..menu-slected {
+.menu-selected{
 	color:black:
 	
 }
-
+table{
+	width:1214;
+	margin:0 auto;
+	
+}
 
 
 
