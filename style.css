@@ -16,6 +16,7 @@ nav a{
   text-align:center;
   font-size:60px;
   font-family: 'Poiret One', cursive;
+  
  }
 
 
@@ -83,7 +84,13 @@ button{
   font-size:65px;
   font-family: 'Chango', cursive;
 }
-  text-align:left;
+
+
+.menu-slected{
+	color:white;
+	size:9px;
+	width:9;
+	
 }
 
 
