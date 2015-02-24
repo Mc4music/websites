@@ -10,11 +10,11 @@ nav a{
  
   border-radius:3px;
   padding:8px;
-  margin:8px;
+  margin:10px;
   display:box;
   transition:4 s all;
   text-align:center;
-  font-size:30px;
+  font-size:40px;
   font-family: 'Poiret One', cursive;
   
  }
