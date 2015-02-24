@@ -93,6 +93,14 @@ button{
 table{
 	width:1214;
 	margin:0 auto;
+	text-size:12px
+	
+	
+	
+}
+
+table header{
+	text-align:center;
 	
 }
 
