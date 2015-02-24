@@ -8,13 +8,13 @@ nav a{
   text-decoration:none;
   color:white;
  
-  border-radius:5px;
+  border-radius:3px;
   padding:8px;
-  margin:10px;
+  margin:8px;
   display:box;
   transition:4 s all;
   text-align:center;
-  font-size:40px;
+  font-size:30px;
   font-family: 'Poiret One', cursive;
   
  }
