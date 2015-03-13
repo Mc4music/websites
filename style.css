@@ -14,9 +14,9 @@ nav a{
  
   border-radius:5px;
   padding:20px;
-  margin:25px;
+  margin:5px;
   display:box;
-  transition:6 s all;
+  transition:1 s all;
   text-align:center;
   font-size:55px;
   font-family: 'Poiret One', cursive;
