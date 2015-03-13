@@ -6,6 +6,8 @@ margin:0;
 nav a:hover {
           color:white;
           padding:10px;
+          display:box;
+          transition:3 s all;
 
   }
 nav a{
@@ -14,9 +16,9 @@ nav a{
  
   border-radius:5px;
   padding:20px;
-  margin:5px;
+  margin:30px;
   display:box;
-  transition:1 s all;
+  transition:6 s all;
   text-align:center;
   font-size:55px;
   font-family: 'Poiret One', cursive;
