@@ -3,11 +3,24 @@ background-color:black;
 font-family: 'Cinzel Decorative', cursive;
 margin:0;
 }
-nav a:hover.auto-width {
+nav a:hover {
     width: auto;
     height: auto;
     padding: 15px;
     color:white;
+    display: inline-block;
+    font-size: 45px;
+    line-height: 90px;
+    cursor: pointer;
+    margin: 20px;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    text-decoration: none;
+    z-index: 1;
+    color: #fff;
 	
 }
 nav a{
