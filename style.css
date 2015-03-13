@@ -6,6 +6,7 @@ margin:0;
 nav a.focus:hover {
   border: 70px solid #000;
   border-radius: 50%;
+  color:white;
   }
 nav a{
   text-decoration:none;
