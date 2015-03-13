@@ -4,12 +4,8 @@ font-family: 'Cinzel Decorative', cursive;
 margin:0;
 }
 nav a:hover {
-  -webkit-transition: all 1s ease;
-     -moz-transition: all 1s ease;
-       -o-transition: all 1s ease;
-      -ms-transition: all 1s ease;
-          transition: all 1s ease;
           color:white;
+          padding:10px;
 
   }
 nav a{
