@@ -13,14 +13,11 @@ nav a:hover {
 nav a{
   text-decoration:none;
   color:white;
- 
   border-radius:5px;
   padding:17px;
   margin:24px;
-  display:box;
-  transition:6 s all;
   text-align:center;
-  font-size:40px;
+  font-size:35px;
   font-family: 'Poiret One', cursive;
   
  }
