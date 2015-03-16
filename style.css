@@ -10,9 +10,9 @@ nav a:hover {
 nav a{
   text-decoration:none;
   color:white;
-  border-radius:8px;
-  padding:13px;
-  margin:25px;
+  border-radius:5px;
+  padding:11px;
+  margin:20px;
   text-align:center;
   font-size:45px;
   font-family: 'Poiret One', cursive;
